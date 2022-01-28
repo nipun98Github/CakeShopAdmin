@@ -23,7 +23,7 @@ public class FCmClient extends AsyncTask<String,String,String> {
             Request request = new Request.Builder()
                     .url("https://fcm.googleapis.com/fcm/send")
                     .post(body)
-                    .addHeader("authorization", "key=EnterKEY")
+                    .addHeader("authorization", "key=ENTERKEYHERE")
                     .addHeader("content-type", "application/json")
                     .addHeader("cache-control", "no-cache")
                     .build();
