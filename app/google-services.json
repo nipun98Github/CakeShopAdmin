@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "344125545553",
+    "project_id": "esweetviva-864c0",
+    "storage_bucket": "esweetviva-864c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344125545553:android:9d3aeac44dc7169e342c70",
+        "android_client_info": {
+          "package_name": "com.admin.esweetadminappfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344125545553-jr8th9bobermu0fupg3psi86qqom598e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.admin.esweetadminappfinal",
+            "certificate_hash": "95a696b0afa115cfdb4a56b015df01664d2ca786"
+          }
+        },
+        {
+          "client_id": "344125545553-1ig17k2ie1qj370l68g8fmbc65dde1ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcfol-sr-sGcNVOujTGg5ThaRstO7PO7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344125545553-1ig17k2ie1qj370l68g8fmbc65dde1ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
